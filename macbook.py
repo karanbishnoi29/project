@@ -8,6 +8,10 @@ import random
 from sklearn.model_selection import KFold
 from datetime import datetime
 from tqdm import tqdm
+import sys
+print(sys.version)
+
+
 
 # Modify imports as needed for ARM compatibility
 # For example, gensim might need to be installed from a compatible source
