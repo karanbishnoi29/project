@@ -1,10 +1,10 @@
 Submitted To : Dr. Mahipal Jadeja 
 
-Author 1:  Nawdeep Kumar 
-Email: 2023pcp5287@mnit.ac.in
+Author 1:  Karan bishnoi   
+Email: 2021ucp1332@mnit.ac.in
 
-Author 2: Akash Pramanick 
-Email: 2023pis5203@mnit.ac.in
+Author 2: sarthak jain
+Email: 2021ucp1115@mnit.ac.in
 
 We conducted our experiment on Macbook M1, ARM64 
 
